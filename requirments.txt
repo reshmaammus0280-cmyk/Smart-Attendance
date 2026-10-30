@@ -1,3 +1,4 @@
-flask 
-qrcode[pil]
+Flask
 gunicorn
+ qrcode[pil]
+ Werkzeug
